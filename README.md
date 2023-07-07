@@ -24,4 +24,4 @@
 
 ## Note
 
-Recommend to install this preset on a project that you are starting from scratch, otherwise your project's design might break.
+Project Software Engineering Kelompok 9 - LK01.
