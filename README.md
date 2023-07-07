@@ -14,13 +14,12 @@
 
 ## Installation
 
-- Clone the repo and `cd` into it
+- Clone repo dan `cd` 
 - Run `composer install`
-- Rename or copy `.env.example` file to `.env`
+- Rename atau copy `.env.example` file to `.env`
 - Run `php artisan key:generate`
-- Set your database credentials in your `.env` file
+- Set database credentials di `.env` file
 - Run migration `php artisan migrate`
-- Make something awesome!
 
 ## Note
 
